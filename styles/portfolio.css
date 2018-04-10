@@ -1,0 +1,83 @@
+body {
+
+	background-color: #444444;
+
+}
+
+#container {
+
+	max-width:960px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#photoCont {
+
+	max-width:648px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+
+}
+
+#filmCont {
+	max-width:800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#navHead {
+	padding-bottom: 10px;
+	border-bottom: 2px solid #CCCCCC;
+	max-width: 150px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#webTitle {
+	text-align: center;
+	margin-top: 100px;
+	font-size: 100px;
+}
+
+#webSub {
+	text-align: center;
+	font-size: 24px;
+}
+
+#email {
+	text-align: center;
+	font-size: 26px;
+	margin-top: 100px;
+}
+
+iframe {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+img {
+
+	padding-left: 20px;
+	padding-bottom: 20px;
+
+}
+
+p {
+
+	color: #DDDDDD;
+
+}
+
+h1 {
+
+	color: #DDDDDD;
+
+}
+
+h3 {
+
+	color: #DDDDDD;
+
+}
